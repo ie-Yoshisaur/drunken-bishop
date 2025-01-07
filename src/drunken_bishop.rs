@@ -70,7 +70,7 @@ pub fn render_drunken_bishop_art(
 
     // 1. Define the symbols corresponding to visit counts.
     let symbols = [
-        ' ', '.', 'o', '+', '=', '*', 'B', 'O', 'X', '@', '%', '#', '&', '8', '$', '0',
+        ' ', '.', 'o', '+', '=', '*', 'B', 'O', 'X', '@', '%', '&', '#', '/', '^',
     ];
 
     // 2. Construct ASCII art by building each row of text.
