@@ -1,0 +1,8 @@
+[package]
+name = "drunken-bishop"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+base64 = "0.22.1"
+sha2 = "0.10.8"
